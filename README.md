@@ -738,7 +738,10 @@
 32. JS Design pattern
     https://addyosmani.com/resources/essentialjsdesignpatterns/book/
 
-33. The JavaScript Beginner's Handbook
+33. The Concise TypeScript Book
+    https://github.com/gibbok/typescript-book
+
+34. The JavaScript Beginner's Handbook
     https://flaviocopes.com/page/javascript-handbook/
 
 34. Learn JavaScript with Ease
